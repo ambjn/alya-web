@@ -11,7 +11,7 @@ export const Hero = () => (
       className="mb-8 md:mb-16"
     >
       <span className="text-white text-5xl md:text-7xl lg:text-[125px]">
-        alya
+        al<span className="text-black/70">ya</span>
         <span className="text-white/70">.</span>
       </span>
     </motion.div>
@@ -24,7 +24,7 @@ export const Hero = () => (
     >
       <h1 className="font-medium tracking-tight leading-[1.05]">
         <span className="text-white/90 text-2xl md:text-5xl lg:text-6xl block mb-2 md:mb-3 font-normal">
-          Your Intelligent Companion
+          Your Intelligent <span className="text-black/70">Companion</span>
         </span>
 
         <span className="text-white/40 text-xl md:text-4xl lg:text-5xl block mt-2 md:mt-4 font-normal">
