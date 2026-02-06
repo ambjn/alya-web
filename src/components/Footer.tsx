@@ -6,7 +6,7 @@ export const Footer = () => (
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 1, delay: 0.8 }}
-        className="absolute bottom-4 md:bottom-8 left-0 right-0 text-center space-y-1.5 px-4"
+        className="absolute bottom-4 md:bottom-8 left-0 right-0 text-center space-y-1.5 px-4 z-10"
     >
         <nav className="flex items-center justify-center gap-3 md:gap-5 text-white/80 text-[10px] md:text-xs flex-wrap">
             <Link
