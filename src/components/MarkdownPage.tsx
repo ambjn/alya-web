@@ -21,15 +21,15 @@ export const MarkdownPage = ({ file }: MarkdownPageProps) => {
 
     if (error) {
         return (
-            <div className="min-h-screen bg-[#09090B] flex items-center justify-center p-8">
-                <p className="text-red-400">{error}</p>
+            <div className="min-h-screen bg-background flex items-center justify-center p-8">
+                <p className="text-destructive">{error}</p>
             </div>
         );
     }
 
     return (
-        <div className="min-h-screen bg-[#09090B] flex items-center justify-center p-8">
-            <div className="max-w-2xl text-center text-white prose prose-invert prose-sm">
+        <div className="min-h-screen bg-background flex items-center justify-center p-8">
+            <div className="max-w-2xl text-center text-foreground prose dark:prose-invert prose-sm">
                 <ReactMarkdown>{content}</ReactMarkdown>
             </div>
         </div>
