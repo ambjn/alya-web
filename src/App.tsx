@@ -1,7 +1,7 @@
 import { Hero } from "./components/Hero";
 import { ParticleBackground } from "./components/ParticleBackground";
 
-function App() {
+const App = () => {
   return (
     <div className="min-h-screen relative overflow-hidden">
       <video
@@ -9,7 +9,7 @@ function App() {
         loop
         muted
         playsInline
-        className="absolute inset-0 w-full h-full object-cover scale-100"
+        className="absolute inset-0 w-full h-full object-cover scale-120"
       >
         <source src="/video_background.mp4" type="video/mp4" />
       </video>
