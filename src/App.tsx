@@ -1,5 +1,6 @@
 import { Hero } from "./components/Hero";
 import { ParticleBackground } from "./components/ParticleBackground";
+import { Footer } from "./components/Footer";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4">
         <Hero />
       </div>
+      <Footer />
     </div>
   );
 }
