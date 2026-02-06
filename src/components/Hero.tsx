@@ -11,7 +11,7 @@ export const Hero = () => (
       className="mb-8 md:mb-16"
     >
       <span className="text-white text-5xl md:text-7xl lg:text-[125px]">
-        al<span className="text-black/70">ya</span>
+        meet al<span className="text-black/70">ya</span>
         <span className="text-white/70">.</span>
       </span>
     </motion.div>
