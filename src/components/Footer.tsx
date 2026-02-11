@@ -22,6 +22,13 @@ export const Footer = () => (
             >
                 Privacy Policy
             </Link>
+            <span className="text-white/60" aria-hidden="true">·</span>
+            <Link
+                to="/support"
+                className="hover:text-white transition-colors duration-200"
+            >
+                Support
+            </Link>
         </nav>
         <p className="text-white/60 text-[10px] md:text-[11px]">
             © 2026, All rights reserved.
