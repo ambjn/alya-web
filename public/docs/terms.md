@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: February 6, 2026**
+**Last updated: February 11, 2026**
 
 ## Acceptance of Terms
 
@@ -41,4 +41,4 @@ We may update these Terms from time to time. We will notify you of any material 
 
 ## Contact Us
 
-If you have any questions about these Terms, please contact us through the app.
+If you have any questions about these Terms, please contact us at **teamalya@outlook.com** or through the app.

@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: February 6, 2026**
+**Last updated: February 11, 2026**
 
 ## Our Commitment to Your Privacy
 
@@ -8,9 +8,7 @@ Alya ("we," "us") is committed to protecting your privacy. This Privacy Policy e
 
 ## Information We Collect
 
-- **Information you provide:** Your name, email address (if provided), and any information you voluntarily submit.
-
-**Important:** We do not store your chat data. Your conversations are not retained on our servers.
+- **Information you provide to us:** This includes your name, phone number, email address (if provided), and the content of your conversations with Alya.
 
 ## How We Use Your Information
 
@@ -48,4 +46,4 @@ We may update this Privacy Policy periodically. We will notify you of material c
 
 ## Contact Us
 
-If you have questions about this Privacy Policy, please contact us through the app.
+If you have questions about this Privacy Policy, please contact us at **teamalya@outlook.com** or through the app.
