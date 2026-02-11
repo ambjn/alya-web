@@ -24,7 +24,7 @@ export const Hero = () => (
     >
       <h1 className="font-medium tracking-tight leading-[1.05]">
         <span className="text-white/90 text-2xl md:text-5xl lg:text-6xl block mb-2 md:mb-3 font-normal">
-          Your Intelligent <span className="text-black/70">Companion</span>
+          Your Intelligent <span className="text-black/70 font-semibold">Companion</span>
         </span>
 
         <span className="text-white/40 text-xl md:text-4xl lg:text-5xl block mt-2 md:mt-4 font-normal">
