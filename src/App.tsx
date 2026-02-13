@@ -4,7 +4,7 @@ import { Footer } from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="min-h-screen relative overflow-hidden">
+    <div className="min-h-screen relative overflow-hidden bg-black">
       <video
         autoPlay
         loop
